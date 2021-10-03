@@ -26,8 +26,9 @@ const profile = {
     "Organized & Analytical",
   ],
   social: [
-    "https://www.linkedin.com/in/assis-zang/",
     "https://github.com/zangassis",
+    "https://www.linkedin.com/in/assis-zang/",
+    "https://zangassisblog.vercel.app/",
   ],
   experiences: [
     {
