@@ -46,7 +46,7 @@ const profile = {
     {
       title: "Software Developer",
       company: "Stara SA",
-      year: "Marc 2017 - Jun 2021",
+      year: "Marc 2015 - Jun 2021",
       summary: [
         "Write technical specifications, help my team to meet business requirements",
         "Program in .NET, code and test systems using .NET languages (C#)",
