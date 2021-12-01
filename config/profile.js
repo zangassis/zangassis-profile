@@ -4,7 +4,7 @@ const profile = {
   email: "assiszang@gmail.com",
   phone: "+5554997034918",
   photo: "https://avatars.githubusercontent.com/u/40374785?v=4",
-  about: "I'm Assis Zang a Software Developer. Through my entire career, i I had incredible opportunities to learn through mistakes and successes, and today I can say that I do what I love most in life, solving problems and contributing to a better world to live in through the impact of technology.",
+  about: "I'm Assis Zang a Software Developer. Throughout my career I had incredible opportunities to learn from mistakes and successes, all of which helped me to be a better person, personally and professionally. I believe that technology contributes to a better world to live in, that's why I chose this path and I always try to give my best.",
   professionalSkills: [
     "Back-End Development",
     "C# language",
