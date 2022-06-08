@@ -62,7 +62,7 @@ const profile = {
     {
       title: "Technologist (Associate Degree) of Systems for internet",
       school: "Lutheran University of Brazil (ULBRA)",
-      year: "2015 - 2017"
+      year: "2017 - 2019"
     }
   ],
   color: 'ae2b26',
